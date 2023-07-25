@@ -265,7 +265,7 @@ Examples
     #     "msg": "1"
     # }
     #
-    # TASK [he fifth subnet /30 in a /24] *************************************************************************
+    # TASK [The fifth subnet /30 in a /24] *************************************************************************
     # task path: /Users/amhatre/ansible-collections/playbooks/test_ipsubnet.yaml:65
     # Loading collection ansible.utils from /Users/amhatre/ansible-collections/collections/ansible_collections/ansible/utils
     # ok: [localhost] => {
